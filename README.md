@@ -31,6 +31,8 @@ Yazılım bir üründür ve her ürün gibi bir yaşam döngüsüne sahiptir. SD
 5. **Bakım Aşaması:**
    - Yazılımın yayınlanmasının ardından güncellemeler ve bakım işlemleri yapılır.
 
+![SDLC Aşamaları Şeması](sdlc.jpg)
+
 ---
 
 ## Yazılım Yaşam Döngüsü Modelleri
@@ -43,21 +45,13 @@ SDLC sürecini yapılandırmak ve yönetmek için çeşitli modeller bulunmaktad
 4. **Çevik Modeller**
 5. **Artırımlı Süreç Modeli**
 6. **Çağlayan Modeli**
-![SDLC Aşamaları Şeması](path-to-image/sdlc-stages.png)
-
-![V Model Şeması](path-to-image/v-model.png)
-
-![Spiral Model Şeması](path-to-image/spiral-model.png)
-
-![Agile Model Döngüsü](path-to-image/agile-cycle.png)
-
-![Çağlayan Modeli Şeması](path-to-image/waterfall-model.png)
-
 
 ### 1. V-Modeli:
 - Şelale modelinden türetilmiş olup "V" şekline benzer.
 - Üst düzey tasarım ve alt düzey test aşamalarını içerir.
 - Basit ve kolay yönetilebilir.
+
+![V Model Şeması](v-modeli.png)
 
 **Avantajları:**
 - Kullanımı kolaydır.
@@ -73,6 +67,8 @@ SDLC sürecini yapılandırmak ve yönetmek için çeşitli modeller bulunmaktad
 - Planlama, Risk Analizi, Mühendislik ve Değerlendirme olmak üzere dört aşamadan oluşur.
 - Büyük projeler için karmaşık ancak uyarlanabilir bir modeldir.
 
+![Helezonik Model Şeması](Helezonik%20(Spiral)%20Model.png)
+
 **Avantajları:**
 - Gereksinimleri daha iyi analiz eder.
 - Kodlama ve test süreçleri erken başlar.
@@ -87,6 +83,8 @@ SDLC sürecini yapılandırmak ve yönetmek için çeşitli modeller bulunmaktad
 - Belirli bir plan olmaksızın doğrudan kodlama yapılır.
 - Proje tamamlanana veya süre dolana kadar geliştirme devam eder.
 
+![Kodla ve Düzelt Modeli Şeması](kodla-ve-duzelt.png)
+
 **Avantajları:**
 - Planlama gerektirmez.
 - Aşamalar hızlı geçilir.
@@ -100,6 +98,8 @@ SDLC sürecini yapılandırmak ve yönetmek için çeşitli modeller bulunmaktad
 ### 4. Çevik Modeller:
 - Artımlı ve yinelemeli geliştirme üzerine odaklanır.
 - Ekip motivasyonu ve esnekliği yüksek tutar.
+
+![Çevik Modeller Şeması](Çevik%20modeller.png)
 
 **Yaygın Çevik Yöntemler:**
 - Uç Değer Programlama (XP)
@@ -121,6 +121,8 @@ SDLC sürecini yapılandırmak ve yönetmek için çeşitli modeller bulunmaktad
 - Yazılım, döngülerle geliştirilir ve teslim edilir.
 - Değişikliklere uyum sağlayabilir.
 
+![Artırımlı Süreç Modeli Şeması](Artırımlı%20Geliştirme%20Süreç%20Modeli.png)
+
 **Avantajları:**
 - Gereksinimler müşteri ile netleştirilir.
 - Sistem özellikleri daha fazla test edilebilir.
@@ -135,6 +137,8 @@ SDLC sürecini yapılandırmak ve yönetmek için çeşitli modeller bulunmaktad
 - SDLC aşamaları doğrusal ve sıralı şekilde uygulanır.
 - Küçük projelerde kullanımı kolaydır.
 - Değişikliklere uygun değildir.
+
+![Çağlayan Modeli Şeması](waterfall-model.png)
 
 **Avantajları:**
 - Disiplin sağlar.
@@ -151,4 +155,6 @@ SDLC sürecini yapılandırmak ve yönetmek için çeşitli modeller bulunmaktad
 1. [Medium: SDLC ve Modeller](https://medium.com/architectural-patterns/yaz%C4%B1l%C4%B1m-geli%C5%9Ftirme-modelleri-62915545c51e)
 2. [Medium: Temel SDLC Süreçleri](https://medium.com/@denizkilinc/yaz%C4%B1l%C4%B1m-ya%C5%9Fam-d%C3%B6ng%C3%BCs%C3%BC-temel-a%C5%9Famalar%C4%B1-software-development-life-cycle-core-processes-197a4b503696)
 3. [Codex: Yazılım Geliştirme Modelleri](https://www.codex.com.tr/yazilim-gelistirme-modelleri)
-4. Doç. Dr. Deniz Kılınç'ın Yazılım Mühendisliği Ders Notları
+4. Doç. Dr. Deniz Kılınç'ın
+::contentReference[oaicite:0]{index=0}
+ 
