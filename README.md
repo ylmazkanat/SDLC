@@ -165,3 +165,7 @@ SDLC sürecini yapılandırmak ve yönetmek için çeşitli modeller bulunmaktad
 2. [Medium: Temel SDLC Süreçleri](https://medium.com/@denizkilinc/yaz%C4%B1l%C4%B1m-ya%C5%9Fam-d%C3%B6ng%C3%BCs%C3%BC-temel-a%C5%9Famalar%C4%B1-software-development-life-cycle-core-processes-197a4b503696)
 3. [Codex: Yazılım Geliştirme Modelleri](https://www.codex.com.tr/yazilim-gelistirme-modelleri)
 4. Doç. Dr. Deniz Kılınç'ın Yazılım Mühendisliği Ders Notları
+---
+
+[Medium makalesine gitmek için tıklayın](https://medium.com/@yilmazkanat/yaz%C4%B1l%C4%B1m-geli%C5%9Ftirme-ya%C5%9Fam-d%C3%B6ng%C3%BCs%C3%BC-sdlc-ve-modelleri-nelerdir-8395603d07bf)
+
