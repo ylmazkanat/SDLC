@@ -43,6 +43,16 @@ SDLC sürecini yapılandırmak ve yönetmek için çeşitli modeller bulunmaktad
 4. **Çevik Modeller**
 5. **Artırımlı Süreç Modeli**
 6. **Çağlayan Modeli**
+![SDLC Aşamaları Şeması](path-to-image/sdlc-stages.png)
+
+![V Model Şeması](path-to-image/v-model.png)
+
+![Spiral Model Şeması](path-to-image/spiral-model.png)
+
+![Agile Model Döngüsü](path-to-image/agile-cycle.png)
+
+![Çağlayan Modeli Şeması](path-to-image/waterfall-model.png)
+
 
 ### 1. V-Modeli:
 - Şelale modelinden türetilmiş olup "V" şekline benzer.
