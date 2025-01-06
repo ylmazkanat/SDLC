@@ -32,7 +32,7 @@ Yazılım bir üründür ve her ürün gibi bir yaşam döngüsüne sahiptir. SD
    - Yazılımın yayınlanmasının ardından güncellemeler ve bakım işlemleri yapılır.
 
 <div align="center">
-  <img src="sdlc.jpg" alt="SDLC Aşamaları Şeması" width="300px">
+  <img src="sdlc.jpg" alt="SDLC Aşamaları Şeması" width="500px">
 </div>
 
 ---
@@ -49,7 +49,7 @@ SDLC sürecini yapılandırmak ve yönetmek için çeşitli modeller bulunmaktad
 6. **Çağlayan Modeli**
 
 <div align="center">
-  <img src="v-modeli.png" alt="V Model Şeması" width="300px">
+  <img src="v-modeli.png" alt="V Model Şeması" width="500px">
 </div>
 
 ### 1. V-Modeli:
@@ -67,7 +67,7 @@ SDLC sürecini yapılandırmak ve yönetmek için çeşitli modeller bulunmaktad
 
 ---
 <div align="center">
-  <img src="Helezonik%20(Spiral)%20Model.png" alt="Helezonik Model Şeması" width="300px">
+  <img src="Helezonik%20(Spiral)%20Model.png" alt="Helezonik Model Şeması" width="500px">
 </div>
 
 ### 2. Helezonik Model:
@@ -84,7 +84,7 @@ SDLC sürecini yapılandırmak ve yönetmek için çeşitli modeller bulunmaktad
 
 ---
 <div align="center">
-  <img src="kodla-ve-duzelt.png" alt="Kodla ve Düzelt Modeli Şeması" width="300px">
+  <img src="kodla-ve-duzelt.png" alt="Kodla ve Düzelt Modeli Şeması" width="500px">
 </div>
 
 ### 3. Kodla ve Düzelt Modeli:
@@ -101,7 +101,7 @@ SDLC sürecini yapılandırmak ve yönetmek için çeşitli modeller bulunmaktad
 
 ---
 <div align="center">
-  <img src="Çevik%20modeller.png" alt="Çevik Modeller Şeması" width="300px">
+  <img src="Çevik%20modeller.png" alt="Çevik Modeller Şeması" width="500px">
 </div>
 
 ### 4. Çevik Modeller:
@@ -124,7 +124,7 @@ SDLC sürecini yapılandırmak ve yönetmek için çeşitli modeller bulunmaktad
 
 ---
 <div align="center">
-  <img src="Artırımlı%20Geliştirme%20Süreç%20Modeli.png" alt="Artırımlı Süreç Modeli Şeması" width="300px">
+  <img src="Artırımlı%20Geliştirme%20Süreç%20Modeli.png" alt="Artırımlı Süreç Modeli Şeması" width="500px">
 </div>
 
 ### 5. Artırımlı Süreç Modeli:
@@ -141,7 +141,7 @@ SDLC sürecini yapılandırmak ve yönetmek için çeşitli modeller bulunmaktad
 
 ---
 <div align="center">
-  <img src="waterfall-model.png" alt="Çağlayan Modeli Şeması" width="300px">
+  <img src="waterfall-model.png" alt="Çağlayan Modeli Şeması" width="500px">
 </div>
 
 ### 6. Çağlayan Modeli:
