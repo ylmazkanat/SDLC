@@ -31,7 +31,9 @@ Yazılım bir üründür ve her ürün gibi bir yaşam döngüsüne sahiptir. SD
 5. **Bakım Aşaması:**
    - Yazılımın yayınlanmasının ardından güncellemeler ve bakım işlemleri yapılır.
 
-![SDLC Aşamaları Şeması](sdlc.jpg)
+<div align="center">
+  <img src="sdlc.jpg" alt="SDLC Aşamaları Şeması" width="300px">
+</div>
 
 ---
 
@@ -46,13 +48,14 @@ SDLC sürecini yapılandırmak ve yönetmek için çeşitli modeller bulunmaktad
 5. **Artırımlı Süreç Modeli**
 6. **Çağlayan Modeli**
 
-![V Model Şeması](v-modeli.png)
+<div align="center">
+  <img src="v-modeli.png" alt="V Model Şeması" width="300px">
+</div>
+
 ### 1. V-Modeli:
 - Şelale modelinden türetilmiş olup "V" şekline benzer.
 - Üst düzey tasarım ve alt düzey test aşamalarını içerir.
 - Basit ve kolay yönetilebilir.
-
-
 
 **Avantajları:**
 - Kullanımı kolaydır.
@@ -63,13 +66,13 @@ SDLC sürecini yapılandırmak ve yönetmek için çeşitli modeller bulunmaktad
 - Risk analizi faaliyetleri içermez.
 
 ---
-![Helezonik Model Şeması](Helezonik%20(Spiral)%20Model.png)
+<div align="center">
+  <img src="Helezonik%20(Spiral)%20Model.png" alt="Helezonik Model Şeması" width="300px">
+</div>
 
 ### 2. Helezonik Model:
 - Planlama, Risk Analizi, Mühendislik ve Değerlendirme olmak üzere dört aşamadan oluşur.
 - Büyük projeler için karmaşık ancak uyarlanabilir bir modeldir.
-
-
 
 **Avantajları:**
 - Gereksinimleri daha iyi analiz eder.
@@ -80,13 +83,13 @@ SDLC sürecini yapılandırmak ve yönetmek için çeşitli modeller bulunmaktad
 - Küçük projeler için uygun değildir.
 
 ---
-
-![Kodla ve Düzelt Modeli Şeması](kodla-ve-duzelt.png)
+<div align="center">
+  <img src="kodla-ve-duzelt.png" alt="Kodla ve Düzelt Modeli Şeması" width="300px">
+</div>
 
 ### 3. Kodla ve Düzelt Modeli:
 - Belirli bir plan olmaksızın doğrudan kodlama yapılır.
 - Proje tamamlanana veya süre dolana kadar geliştirme devam eder.
-
 
 **Avantajları:**
 - Planlama gerektirmez.
@@ -97,12 +100,13 @@ SDLC sürecini yapılandırmak ve yönetmek için çeşitli modeller bulunmaktad
 - Hataları bulmak ve düzeltmek zordur.
 
 ---
-![Çevik Modeller Şeması](Çevik%20modeller.png)
+<div align="center">
+  <img src="Çevik%20modeller.png" alt="Çevik Modeller Şeması" width="300px">
+</div>
+
 ### 4. Çevik Modeller:
 - Artımlı ve yinelemeli geliştirme üzerine odaklanır.
 - Ekip motivasyonu ve esnekliği yüksek tutar.
-
-
 
 **Yaygın Çevik Yöntemler:**
 - Uç Değer Programlama (XP)
@@ -119,13 +123,13 @@ SDLC sürecini yapılandırmak ve yönetmek için çeşitli modeller bulunmaktad
 - Hedef baskısı nedeniyle fazla çalışma gerektirebilir.
 
 ---
-![Artırımlı Süreç Modeli Şeması](Artırımlı%20Geliştirme%20Süreç%20Modeli.png)
+<div align="center">
+  <img src="Artırımlı%20Geliştirme%20Süreç%20Modeli.png" alt="Artırımlı Süreç Modeli Şeması" width="300px">
+</div>
 
 ### 5. Artırımlı Süreç Modeli:
 - Yazılım, döngülerle geliştirilir ve teslim edilir.
 - Değişikliklere uyum sağlayabilir.
-
-
 
 **Avantajları:**
 - Gereksinimler müşteri ile netleştirilir.
@@ -136,14 +140,14 @@ SDLC sürecini yapılandırmak ve yönetmek için çeşitli modeller bulunmaktad
 - Uzun vadeli projeler için uygundur.
 
 ---
-![Çağlayan Modeli Şeması](waterfall-model.png)
+<div align="center">
+  <img src="waterfall-model.png" alt="Çağlayan Modeli Şeması" width="300px">
+</div>
 
 ### 6. Çağlayan Modeli:
 - SDLC aşamaları doğrusal ve sıralı şekilde uygulanır.
 - Küçük projelerde kullanımı kolaydır.
 - Değişikliklere uygun değildir.
-
-
 
 **Avantajları:**
 - Disiplin sağlar.
@@ -160,6 +164,4 @@ SDLC sürecini yapılandırmak ve yönetmek için çeşitli modeller bulunmaktad
 1. [Medium: SDLC ve Modeller](https://medium.com/architectural-patterns/yaz%C4%B1l%C4%B1m-geli%C5%9Ftirme-modelleri-62915545c51e)
 2. [Medium: Temel SDLC Süreçleri](https://medium.com/@denizkilinc/yaz%C4%B1l%C4%B1m-ya%C5%9Fam-d%C3%B6ng%C3%BCs%C3%BC-temel-a%C5%9Famalar%C4%B1-software-development-life-cycle-core-processes-197a4b503696)
 3. [Codex: Yazılım Geliştirme Modelleri](https://www.codex.com.tr/yazilim-gelistirme-modelleri)
-4. Doç. Dr. Deniz Kılınç'ın
-::contentReference[oaicite:0]{index=0}
- 
+4. Doç. Dr. Deniz Kılınç'ın Yazılım Mühendisliği Ders Notları
