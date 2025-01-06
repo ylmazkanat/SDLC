@@ -46,12 +46,13 @@ SDLC sürecini yapılandırmak ve yönetmek için çeşitli modeller bulunmaktad
 5. **Artırımlı Süreç Modeli**
 6. **Çağlayan Modeli**
 
+![V Model Şeması](v-modeli.png)
 ### 1. V-Modeli:
 - Şelale modelinden türetilmiş olup "V" şekline benzer.
 - Üst düzey tasarım ve alt düzey test aşamalarını içerir.
 - Basit ve kolay yönetilebilir.
 
-![V Model Şeması](v-modeli.png)
+
 
 **Avantajları:**
 - Kullanımı kolaydır.
@@ -62,12 +63,13 @@ SDLC sürecini yapılandırmak ve yönetmek için çeşitli modeller bulunmaktad
 - Risk analizi faaliyetleri içermez.
 
 ---
+![Helezonik Model Şeması](Helezonik%20(Spiral)%20Model.png)
 
 ### 2. Helezonik Model:
 - Planlama, Risk Analizi, Mühendislik ve Değerlendirme olmak üzere dört aşamadan oluşur.
 - Büyük projeler için karmaşık ancak uyarlanabilir bir modeldir.
 
-![Helezonik Model Şeması](Helezonik%20(Spiral)%20Model.png)
+
 
 **Avantajları:**
 - Gereksinimleri daha iyi analiz eder.
@@ -79,11 +81,12 @@ SDLC sürecini yapılandırmak ve yönetmek için çeşitli modeller bulunmaktad
 
 ---
 
+![Kodla ve Düzelt Modeli Şeması](kodla-ve-duzelt.png)
+
 ### 3. Kodla ve Düzelt Modeli:
 - Belirli bir plan olmaksızın doğrudan kodlama yapılır.
 - Proje tamamlanana veya süre dolana kadar geliştirme devam eder.
 
-![Kodla ve Düzelt Modeli Şeması](kodla-ve-duzelt.png)
 
 **Avantajları:**
 - Planlama gerektirmez.
@@ -94,12 +97,12 @@ SDLC sürecini yapılandırmak ve yönetmek için çeşitli modeller bulunmaktad
 - Hataları bulmak ve düzeltmek zordur.
 
 ---
-
+![Çevik Modeller Şeması](Çevik%20modeller.png)
 ### 4. Çevik Modeller:
 - Artımlı ve yinelemeli geliştirme üzerine odaklanır.
 - Ekip motivasyonu ve esnekliği yüksek tutar.
 
-![Çevik Modeller Şeması](Çevik%20modeller.png)
+
 
 **Yaygın Çevik Yöntemler:**
 - Uç Değer Programlama (XP)
@@ -116,12 +119,13 @@ SDLC sürecini yapılandırmak ve yönetmek için çeşitli modeller bulunmaktad
 - Hedef baskısı nedeniyle fazla çalışma gerektirebilir.
 
 ---
+![Artırımlı Süreç Modeli Şeması](Artırımlı%20Geliştirme%20Süreç%20Modeli.png)
 
 ### 5. Artırımlı Süreç Modeli:
 - Yazılım, döngülerle geliştirilir ve teslim edilir.
 - Değişikliklere uyum sağlayabilir.
 
-![Artırımlı Süreç Modeli Şeması](Artırımlı%20Geliştirme%20Süreç%20Modeli.png)
+
 
 **Avantajları:**
 - Gereksinimler müşteri ile netleştirilir.
@@ -132,13 +136,14 @@ SDLC sürecini yapılandırmak ve yönetmek için çeşitli modeller bulunmaktad
 - Uzun vadeli projeler için uygundur.
 
 ---
+![Çağlayan Modeli Şeması](waterfall-model.png)
 
 ### 6. Çağlayan Modeli:
 - SDLC aşamaları doğrusal ve sıralı şekilde uygulanır.
 - Küçük projelerde kullanımı kolaydır.
 - Değişikliklere uygun değildir.
 
-![Çağlayan Modeli Şeması](waterfall-model.png)
+
 
 **Avantajları:**
 - Disiplin sağlar.
